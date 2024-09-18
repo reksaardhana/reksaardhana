@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/reksaaaaaaaaa" target="blank"><img src="https://img.shields.io/twitter/follow/reksaaaaaaaaa?logo=twitter&style=for-the-badge" alt="reksaaaaaaaaa" /></a> </p>
 
-- 🔭 I’m currently working on [project1](https://brouwise.com)
+- 🔭 I’m currently working on
+**Proyek Pengaturan Jaringan untuk Startup**  
+  [Network Setup Project for a Startup](https://brouwise.com)
 
-- 🌱 I’m currently learning **framework**
+- 🌱 I’m currently learning **Cisco Networking, Cloud Networking, and Network Security**
 
-- 👯 I’m looking to collaborate on [project1](https://brouwise.com)
+- 👯 I’m looking to collaborate on [Network and IT Infrastructure Projects for new companies](https://brouwise.com)
 
 - 🤝 I’m looking for help with [project1](https://brouwise.com)
 
