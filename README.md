@@ -11,7 +11,7 @@
 
 - 👯 Saya ingin berkolaborasi dalam   [Proyek Jaringan dan Infrastruktur TI untuk perusahaan baru](https://github.com/reksaardhana/open-source-jaringan.git)
 
-- 🤝 Saya mencari bantuan untuk [Sertifikasi CCNA dan konfigurasi perangkat Cisco](https://brouwise.com)
+- 🤝 Saya mencari bantuan untuk [Sertifikasi CCNA dan konfigurasi perangkat Cisco]([https://brouwise.com](https://github.com/username/config-router-switch))
 
 - 👨‍💻 Semua proyek saya tersedia di [portofolio link](portofolio link)
 
