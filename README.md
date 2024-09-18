@@ -9,7 +9,7 @@
 
 - 🌱 Saya saat ini sedang belajar **Jaringan Cisco, Jaringan Cloud, dan Keamanan Jaringan**
 
-- 👯 Saya ingin berkolaborasi dalam   [Proyek Jaringan dan Infrastruktur TI untuk perusahaan baru](https://brouwise.com)
+- 👯 Saya ingin berkolaborasi dalam   [Proyek Jaringan dan Infrastruktur TI untuk perusahaan baru](https://github.com/reksaardhana/open-source-jaringan.git)
 
 - 🤝 Saya mencari bantuan untuk [Sertifikasi CCNA dan konfigurasi perangkat Cisco](https://brouwise.com)
 
