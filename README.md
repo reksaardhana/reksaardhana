@@ -5,27 +5,27 @@
 
 <p align="left"> <a href="https://twitter.com/reksaaaaaaaaa" target="blank"><img src="https://img.shields.io/twitter/follow/reksaaaaaaaaa?logo=twitter&style=for-the-badge" alt="reksaaaaaaaaa" /></a> </p>
 
-- 🔭 I’m currently working on
-**Proyek Pengaturan Jaringan untuk Startup**  
-  [Network Setup Project for a Startup](https://brouwise.com)
+- 🔭 Saya sedang mengerjakan [Proyek Pengaturan Jaringan untuk Startup](https://brouwise.com)
 
-- 🌱 I’m currently learning **Cisco Networking, Cloud Networking, and Network Security**
+- 🌱 Saya saat ini sedang belajar **Jaringan Cisco, Jaringan Cloud, dan Keamanan Jaringan**
 
-- 👯 I’m looking to collaborate on [Network and IT Infrastructure Projects for new companies](https://brouwise.com)
+- 👯 Saya ingin berkolaborasi dalam   [Proyek Jaringan dan Infrastruktur TI untuk perusahaan baru](https://brouwise.com)
 
-- 🤝 I’m looking for help with [project1](https://brouwise.com)
+- 🤝 Saya mencari bantuan untuk [Sertifikasi CCNA dan konfigurasi perangkat Cisco](https://brouwise.com)
 
-- 👨‍💻 All of my projects are available at [portofolio link](portofolio link)
+- 👨‍💻 Semua proyek saya tersedia di [portofolio link](portofolio link)
 
 - 📝 I regularly write articles on [blok link](blok link)
 
-- 💬 Ask me about **reac**
+- 💬 Tanyakan kepada saya tentang **Jaringan Komputer, TCP/IP, dan Manajemen Jaringan**
 
-- 📫 How to reach me **reksaardhanaa@gmail.com**
+- 📫 Cara menghubungi saya **reksaardhanaa@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Ketahui pengalaman saya [resume link](resume link)
 
-- ⚡ Fun fact **i think iam funny**
+- ⚡ Fakta menarik **Saya pernah berhasil mengimplementasikan solusi cloud untuk proyek pribadi yang memungkinkan saya mengakses data dari mana saja
+Saya tertarik dengan ethical hacking dan pernah mengikuti kursus online untuk mempelajari teknik-teknik dasar dalam penetration testing
+Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaborasi secara efektif dalam proyek-proyek mereka**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
