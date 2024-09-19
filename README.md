@@ -36,7 +36,7 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://id.images.search.yahoo.com/search/images;_ylt=Awr1Th0AGuxmT2kEyfPLQwx.;_ylu=Y29sbwNzZzMEcG9zAzIEdnRpZAMEc2VjA3Nj?p=logo+arduino&type=E211ID885G0&ei=UTF-8&fr=mcafee&th=116.5&tw=116.5&imgurl=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Farduino-logo-1.png&rurl=https%3A%2F%2Fbrandslogos.com%2Fa%2Farduino-logo-1%2F&size=142KB&name=Arduino+Logo+PNG+Transparent+%281%29+%E2%80%93+Brands+Logos&oid=2&h=1280&w=1279&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.TpvqpsHupWChjcrJ59ztBwHaHa%26pid%3DApi%26rs%3D1%26c%3D1%26qlt%3D95%26w%3D116%26h%3D116&tt=Arduino+Logo+PNG+Transparent+%281%29+%E2%80%93+Brands+Logos&sigr=uXnhYrfbzHry&sigit=VfDZdalZDUJY&sigi=HWGooFt.q9nK&sign=aUqvpVwxE0rW&sigt=aUqvpVwxE0rW)" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reksaardhana&show_icons=true&locale=en&layout=compact" alt="reksaardhana" /></p>
 
@@ -44,94 +44,3 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reksaardhana&" alt="reksaardhana" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_ARDUINO" alt="arduino" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_AWS" alt="aws" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_DOCKER" alt="docker" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_GIT" alt="git" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_GRAFANA" alt="grafana" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_ILLUSTRATOR" alt="illustrator" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_LARAVEL" alt="laravel" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_LINUX" alt="linux" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_MYSQL" alt="mysql" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_NGINX" alt="nginx" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_PHOTOSHOP" alt="photoshop" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_PHP" alt="php" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_PYTHON" alt="python" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_UNITY" alt="unity" width="40" height="40"/> 
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-        <img src="URL_GAMBAR_UNREAL" alt="unreal" width="40" height="40"/> 
-    </a>
-</p>
