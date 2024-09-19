@@ -43,3 +43,95 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reksaardhana&show_icons=true&locale=en" alt="reksaardhana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reksaardhana&" alt="reksaardhana" /></p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_ARDUINO" alt="arduino" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_AWS" alt="aws" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_DOCKER" alt="docker" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_GIT" alt="git" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_GRAFANA" alt="grafana" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_ILLUSTRATOR" alt="illustrator" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_LARAVEL" alt="laravel" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_LINUX" alt="linux" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_MYSQL" alt="mysql" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_NGINX" alt="nginx" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_PHOTOSHOP" alt="photoshop" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_PHP" alt="php" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_PYTHON" alt="python" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_UNITY" alt="unity" width="40" height="40"/> 
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+        <img src="URL_GAMBAR_UNREAL" alt="unreal" width="40" height="40"/> 
+    </a>
+</p>
