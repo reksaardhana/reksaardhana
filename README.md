@@ -43,7 +43,6 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reksaardhana&" alt="reksaardhana" /></p>
 
 <p align="left">
-    <strong>Editing:</strong>
     <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
     </a>
@@ -65,10 +64,6 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
         <img src="https://static.canva.com/static/images/canva-logo.svg" alt="Canva" width="40" height="40"/>
     </a>
-</p>
-
-<p align="left">
-    <strong>Operating Systems:</strong>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
     </a>
@@ -87,17 +82,9 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
     <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" alt="Windows" width="40" height="40"/>
     </a>
-</p>
-
-<p align="left">
-    <strong>Containerization:</strong>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
     </a>
-</p>
-
-<p align="left">
-    <strong>Network Security:</strong>
     <a href="https://nmap.org/" target="_blank" rel="noreferrer">
         <img src="https://nmap.org/images/nmap-logo.png" alt="Nmap" width="40" height="40"/>
     </a>
@@ -110,20 +97,12 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
     <a href="https://www.openssl.org/" target="_blank" rel="noreferrer">
         <img src="https://www.openssl.org/images/openssl-logo.png" alt="OpenSSL" width="40" height="40"/>
     </a>
-</p>
-
-<p align="left">
-    <strong>Web Servers:</strong>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
     </a>
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40"/>
     </a>
-</p>
-
-<p align="left">
-    <strong>Virtualization:</strong>
     <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
         <img src="https://www.virtualbox.org/graphics/vbox_logo.png" alt="VirtualBox" width="40" height="40"/>
     </a>
@@ -133,24 +112,12 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
     <a href="https://www.cisco.com/c/en/us/products/switches/packet-tracer/index.html" target="_blank" rel="noreferrer">
         <img src="https://www.cisco.com/c/dam/en_us/solutions/collateral/enterprise-networks/packet-tracer/packet-tracer.png" alt="Cisco Packet Tracer" width="40" height="40"/>
     </a>
-</p>
-
-<p align="left">
-    <strong>Database Management:</strong>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     </a>
-</p>
-
-<p align="left">
-    <strong>Scripting:</strong>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </a>
-</p>
-
-<p align="left">
-    <strong>Monitoring:</strong>
     <a href="https://grafana.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
     </a>
