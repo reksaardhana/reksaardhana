@@ -37,7 +37,7 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 <p align="left">
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img align="center" src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" alt="Adobe Photoshop" height="40" width="40" /></a>
 <a href="https://alightmotion.com/" title="Alight Motion"><img align="center" src="https://logos-world.net/wp-content/uploads/2024/01/Alight-Motion-Logo.png" alt="Alight Motion" height="40" width="40" /></a>
-<a href="https://www.capcut.com/" title="CapCut"><img align="center" src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" height="40" width="40" /></a>
+<a href="https://www.capcut.com/" title="CapCut"><img align="center" src="https://www.pngall.com/wp-content/uploads/13/Alight-Motion-Logo.png" alt="CapCut" height="40" width="40" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" title="PowerPoint"><img align="center" src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png" height="40" width="40" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/word" title="Word"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-8.png" alt="Word" height="40" width="40" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel"><img align="center" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-1.png" alt="Excel" height="40" width="40" /></a>
@@ -54,7 +54,7 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 <a href="https://www.metasploit.com/" title="Metasploit"><img align="center" src="https://www.kindpng.com/picc/m/79-793003_metasploit-logo-transparent-hd-png-download.png" alt="Metasploit" height="40" width="40" /></a>
 <a href="https://www.openssl.org/" title="OpenSSL"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/openssl_logo_icon_170881.png" alt="OpenSSL" height="40" width="40" /></a>
 <a href="https://www.nginx.com/" title="Nginx"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Logo.png" alt="Nginx" height="30" width="40" /></a>
-<a href="https://httpd.apache.org/" title="Apache"><img align="center" src="https://logos-download.com/wp-content/uploads/2016/06/Apache_logo.png" alt="Apache" height="30" width="40" /></a>
+<a href="https://httpd.apache.org/" title="Apache"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_logo_icon_168630.png" alt="Apache" height="30" width="40" /></a>
 <a href="https://www.virtualbox.org/" title="VirtualBox"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" height="40" width="40" /></a>
 <a href="https://www.vmware.com/" title="VMware"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png" alt="VMware" height="40" width="40" /></a>
 <a href="https://www.netacad.com/courses/packet-tracer" title="Cisco Packet Tracer"><img align="center" src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" height="40" width="40" /></a>
