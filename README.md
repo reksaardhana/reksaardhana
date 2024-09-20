@@ -35,7 +35,7 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="#" title="Adobe Photoshop"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" height="30" width="40" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img align="center" src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" alt="Adobe Photoshop" height="30" width="40" /></a>
 <a href="#" title="Alight Motion"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Alight_Motion_Logo.svg/1200px-Alight_Motion_Logo.svg.png" alt="Alight Motion" height="30" width="40" /></a>
 <a href="#" title="CapCut"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CapCut_logo.png/1200px-CapCut_logo.png" alt="CapCut" height="30" width="40" /></a>
 <a href="#" title="PowerPoint"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Microsoft_Office_PowerPoint_%282019-2021%29.svg/1024px Microsoft_Office_PowerPoint_%282019-2021%29.svg.png" alt="PowerPoint" height="30" width="40" /></a>
