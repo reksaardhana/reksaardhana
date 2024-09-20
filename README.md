@@ -28,7 +28,7 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ReksaArdhanaa" target="blank"><img align="center" src="https://toppng.com/public/uploads/preview/twitter-x-new-logo-round-icon-png-11692480241tdbz6jparr.webp" alt="ReksaArdhanaa" height="40" width="40" /></a>
+<a href="https://twitter.com/ReksaArdhanaa" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png" alt="ReksaArdhanaa" height="40" width="40" /></a>
 <a href="https://fb.com/reksaa" target="blank"><img align="center" src="https://www.freeiconspng.com/uploads/facebook-logo-3.png" alt="reksaa" height="40" width="40" /></a>
 <a href="https://instagram.com/rrekzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rekzzz" height="40" width="40" /></a>
 </p>
