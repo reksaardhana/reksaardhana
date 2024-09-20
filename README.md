@@ -28,7 +28,7 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ReksaArdhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reksaaaaaaaaa" height="30" width="40" /></a>
+<a href="https://twitter.com/ReksaArdhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ReksaArdhana" height="30" width="40" /></a>
 <a href="https://fb.com/reksaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reksaa" height="30" width="40" /></a>
 <a href="https://instagram.com/rrekzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rekzzz" height="30" width="40" /></a>
 <a href="https://discord.gg/discord sek gak roh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord sek gak roh" height="30" width="40" /></a>
