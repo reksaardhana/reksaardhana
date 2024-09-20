@@ -122,3 +122,21 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
     </a>
 </p>
+<style>
+    a {
+        text-decoration: none; /* Menghilangkan garis bawah pada tautan */
+    }
+</style>
+
+<p align="left">
+    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
+    </a>
+    <a href="https://alightmotion.com/" target="_blank" rel="noreferrer">
+        <img src="https://alightmotion.com/images/logo.svg" alt="Alight Motion" width="40" height="40"/>
+    </a>
+    <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
+        <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
+    </a>
+    <!-- Tambahkan tautan lainnya di sini -->
+</p>
