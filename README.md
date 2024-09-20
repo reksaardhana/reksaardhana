@@ -48,7 +48,7 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 <a href="https://www.redhat.com/en" title="Red Hat"><img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236967/redhat-icon-md.png" height="40" width="40" /></a>
 <a href="https://www.debian.org/" title="Debian"><img align="center" src="https://static-00.iconduck.com/assets.00/debian-logo-icon-1024x1014-7xt5ht8u.png" alt="Debian" height="40" width="40" /></a>
 <a href="https://www.microsoft.com/en-us/windows" title="Windows"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/12/windows-logo.png" alt="Windows" height="40" width="40" /></a>
-<a href="https://www.docker.com/" title="Docker"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" height="40" width="40" /></a>
+<a href="https://www.docker.com/" title="Docker"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="40" width="40" /></a>
 <a href="https://nmap.org/" title="Nmap"><img align="center" src="https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2020/04/nmap-logo-256x256-1.png" alt="Nmap" height="40" width="40" /></a>
 <a href="https://www.wireshark.org/" title="Wireshark"><img align="center" src="https://img.icons8.com/?size=64&id=rOHcpTUtCTjr&format=png" alt="Wireshark" height="40" width="40" /></a>
 <a href="https://www.metasploit.com/" title="Metasploit"><img align="center" src="https://www.nicepng.com/png/detail/24-249625_metasploit-logo.png" alt="Metasploit" height="40" width="40" /></a>
