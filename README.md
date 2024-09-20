@@ -43,15 +43,15 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel"><img align="center" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-1.png" alt="Excel" height="40" width="40" /></a>
 <a href="https://www.canva.com/" title="Canva"><img align="center" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" alt="Canva" height="40" width="40" /></a>
 <a href="https://www.linux.org/" title="Linux"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux" height="40" width="40" /></a>
-<a href="https://www.kali.org/" title="Kali Linux"><img align="center" src="https://logowik.com/content/uploads/images/kali-linux2962.jpg" alt="Kali Linux" height="40" width="40" /></a>
-<a href="https://ubuntu.com/" title="Ubuntu"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png" alt="Ubuntu" height="40" width="40" /></a>
-<a href="https://www.redhat.com/en" title="Red Hat"><img align="center" src="https://toppng.com/uploads/preview/redhat-logo-11609374364enslg7q5gl.png" alt="Red Hat" height="40" width="40" /></a>
-<a href="https://www.debian.org/" title="Debian"><img align="center" src="https://www.liblogo.com/img-logo/de2919f32f-debian-logo-file-debian-logo-png-freeastro.png" alt="Debian" height="40" width="40" /></a>
+<a href="https://www.kali.org/" title="Kali Linux"><img align="center" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" alt="Kali Linux" height="40" width="40" /></a>
+<a href="https://ubuntu.com/" title="Ubuntu"><img align="center" src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" height="40" width="40" /></a>
+<a href="https://www.redhat.com/en" title="Red Hat"><img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236967/redhat-icon-md.png" height="40" width="40" /></a>
+<a href="https://www.debian.org/" title="Debian"><img align="center" src="https://static-00.iconduck.com/assets.00/debian-logo-icon-1024x1014-7xt5ht8u.png" alt="Debian" height="40" width="40" /></a>
 <a href="https://www.microsoft.com/en-us/windows" title="Windows"><img align="center" src="https://logowik.com/content/uploads/images/windows-116906.jpg" alt="Windows" height="40" width="40" /></a>
 <a href="https://www.docker.com/" title="Docker"><img align="center" src="https://logo-marque.com/wp-content/uploads/2021/03/Docker-Logo-2017-present.jpg" alt="Docker" height="40" width="40" /></a>
 <a href="https://nmap.org/" title="Nmap"><img align="center" src="https://www.linuxadictos.com/wp-content/uploads/nmap-logo.png" alt="Nmap" height="40" width="40" /></a>
 <a href="https://www.wireshark.org/" title="Wireshark"><img align="center" src="https://img.icons8.com/?size=64&id=rOHcpTUtCTjr&format=png" alt="Wireshark" height="40" width="40" /></a>
-<a href="https://www.metasploit.com/" title="Metasploit"><img align="center" src="https://www.nicepng.com/png/detail/24-249625_metasploit-logo.png" alt="Metasploit" height="40" width="40" /></a>
+<a href="https://www.metasploit.com/" title="Metasploit"><img align="center" src="https://www.kindpng.com/picc/m/79-793003_metasploit-logo-transparent-hd-png-download.png" alt="Metasploit" height="40" width="40" /></a>
 <a href="https://www.openssl.org/" title="OpenSSL"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/openssl_logo_icon_170881.png" alt="OpenSSL" height="40" width="40" /></a>
 <a href="https://www.nginx.com/" title="Nginx"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Logo.png" alt="Nginx" height="40" width="40" /></a>
 <a href="https://httpd.apache.org/" title="Apache"><img align="center" src="https://logos-download.com/wp-content/uploads/2016/06/Apache_logo.png" alt="Apache" height="40" width="40" /></a>
