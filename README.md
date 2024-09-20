@@ -36,31 +36,31 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img align="center" src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" alt="Adobe Photoshop" height="40" width="40" /></a>
-<a href="#" title="Alight Motion"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Alight_Motion_Logo.svg/1200px-Alight_Motion_Logo.svg.png" alt="Alight Motion" height="30" width="40" /></a>
-<a href="#" title="CapCut"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CapCut_logo.png/1200px-CapCut_logo.png" alt="CapCut" height="30" width="40" /></a>
-<a href="#" title="PowerPoint"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Microsoft_Office_PowerPoint_%282019-2021%29.svg/1024px Microsoft_Office_PowerPoint_%282019-2021%29.svg.png" alt="PowerPoint" height="30" width="40" /></a>
-<a href="#" title="Word"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Microsoft_Office_Word_%282019-2021%29.svg/1024px-Microsoft_Office_Word_%282019-2021%29.svg.png" alt="Word" height="30" width="40" /></a>
-<a href="#" title="Excel"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Microsoft_Office_Excel_%282019-2021%29.svg/1024px-Microsoft_Office_Excel_%282019-2021%29.svg.png" alt="Excel" height="30" width="40" /></a>
-<a href="#" title="Canva"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canva_logo.png/1024px-Canva_logo.png" alt="Canva" height="30" width="40" /></a>
-<a href="#" title="Linux"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Linux_logo.png/1024px-Linux_logo.png" alt="Linux" height="30" width="40" /></a>
-<a href="#" title="Kali Linux"><img align="center" src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" height="30" width="40" /></a>
-<a href="#" title="Ubuntu"><img align="center" src="https://assets.ubuntu.com/v1/3de05e26-ubuntu-logo32.png" alt="Ubuntu" height="30" width="40" /></a>
-<a href="#" title="Red Hat"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Red_Hat_logo.svg/1024px-Red_Hat_logo.svg.png" alt="Red Hat" height="30" width="40" /></a>
-<a href="#" title="Debian"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Debian_logo.svg/1024px-Debian_logo.svg.png" alt="Debian" height="30" width="40" /></a>
-<a href="#" title="Windows"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" alt="Windows" height="30" width="40" /></a>
-<a href="#" title="Docker"><img align="center" src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo.png" alt="Docker" height="30" width="40" /></a>
-<a href="#" title="Nmap"><img align="center" src="https://nmap.org/images/nmap-logo.png" alt="Nmap" height="30" width="40" /></a>
-<a href="#" title="Wireshark"><img align="center" src="https://www.wireshark.org/assets/logo/wire-logo.svg" alt="Wireshark" height="30" width="40" /></a>
-<a href="#" title="Metasploit"><img align="center" src="https://www.metasploit.com/img/logos/metasploit.png" alt="Metasploit" height="30" width="40" /></a>
-<a href="#" title="OpenSSL"><img align="center" src="https://www.openssl.org/images/openssl-logo.png" alt="OpenSSL" height="30" width="40" /></a>
-<a href="#" title="Nginx"><img align="center" src="https://www.nginx.com/wp-content/uploads/2018/08/nginx_logo.png" alt="Nginx" height="30" width="40" /></a>
-<a href="#" title="Apache"><img align="center" src="https://apache.org/images/asf_logo.png" alt="Apache" height="30" width="40" /></a>
-<a href="#" title="VirtualBox"><img align="center" src="https://www.virtualbox.org/images/vbox_logo.png" alt="VirtualBox" height="30" width="40" /></a>
-<a href="#" title="VMware"><img align="center" src="https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/logo/VMW_LOGO_RGB_POS.png" alt="VMware" height="30" width="40" /></a>
-<a href="#" title="Cisco Packet Tracer"><img align="center" src="https://www.netacad.com/sites/default/files/styles/128x128/public/2021-01/cisco-packet-tracer.png" alt="Cisco Packet Tracer" height="30" width="40" /></a>
-<a href="#" title="MySQL"><img align="center" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="30" width="40" /></a>
-<a href="#" title="Python"><img align="center" src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" height="30" width="40" /></a>
-<a href="#" title="Grafana"><img align="center" src="https://grafana.com/static/assets/img/grafana_logo.svg" alt="Grafana" height="30" width="40" /></a>
+<a href="https://alightmotion.com/" title="Alight Motion"><img align="center" src="https://logos-world.net/wp-content/uploads/2024/01/Alight-Motion-Logo.png" alt="Alight Motion" height="40" width="40" /></a>
+<a href="https://www.capcut.com/" title="CapCut"><img align="center" src="https://trendblog.euronics.de/wp-content/uploads/2022/11/capcut-logo.jpg" alt="CapCut" height="40" width="40" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" title="PowerPoint"><img align="center" src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png" height="40" width="40" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" title="Word"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-8.png" alt="Word" height="40" width="40" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel"><img align="center" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-1.png" alt="Excel" height="40" width="40" /></a>
+<a href="https://www.canva.com/" title="Canva"><img align="center" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" alt="Canva" height="40" width="40" /></a>
+<a href="https://www.linux.org/" title="Linux"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux" height="40" width="40" /></a>
+<a href="https://www.kali.org/" title="Kali Linux"><img align="center" src="https://logowik.com/content/uploads/images/kali-linux2962.jpg" alt="Kali Linux" height="40" width="40" /></a>
+<a href="https://ubuntu.com/" title="Ubuntu"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png" alt="Ubuntu" height="40" width="40" /></a>
+<a href="https://www.redhat.com/en" title="Red Hat"><img align="center" src="https://toppng.com/uploads/preview/redhat-logo-11609374364enslg7q5gl.png" alt="Red Hat" height="40" width="40" /></a>
+<a href="https://www.debian.org/" title="Debian"><img align="center" src="https://www.liblogo.com/img-logo/de2919f32f-debian-logo-file-debian-logo-png-freeastro.png" alt="Debian" height="40" width="40" /></a>
+<a href="https://www.microsoft.com/en-us/windows" title="Windows"><img align="center" src="https://logowik.com/content/uploads/images/windows-116906.jpg" alt="Windows" height="40" width="40" /></a>
+<a href="https://www.docker.com/" title="Docker"><img align="center" src="https://logo-marque.com/wp-content/uploads/2021/03/Docker-Logo-2017-present.jpg" alt="Docker" height="40" width="40" /></a>
+<a href="https://nmap.org/" title="Nmap"><img align="center" src="https://www.linuxadictos.com/wp-content/uploads/nmap-logo.png" alt="Nmap" height="40" width="40" /></a>
+<a href="https://www.wireshark.org/" title="Wireshark"><img align="center" src="https://img.icons8.com/?size=64&id=rOHcpTUtCTjr&format=png" alt="Wireshark" height="40" width="40" /></a>
+<a href="https://www.metasploit.com/" title="Metasploit"><img align="center" src="https://www.nicepng.com/png/detail/24-249625_metasploit-logo.png" alt="Metasploit" height="40" width="40" /></a>
+<a href="https://www.openssl.org/" title="OpenSSL"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/openssl_logo_icon_170881.png" alt="OpenSSL" height="40" width="40" /></a>
+<a href="https://www.nginx.com/" title="Nginx"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Logo.png" alt="Nginx" height="40" width="40" /></a>
+<a href="https://httpd.apache.org/" title="Apache"><img align="center" src="https://logos-download.com/wp-content/uploads/2016/06/Apache_logo.png" alt="Apache" height="40" width="40" /></a>
+<a href="https://www.virtualbox.org/" title="VirtualBox"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" height="40" width="40" /></a>
+<a href="https://www.vmware.com/" title="VMware"><img align="center" src="https://www.nesabamedia.com/wp-content/uploads/2022/03/VMware-Workstation-Logo-2-680x350.png" alt="VMware" height="40" width="40" /></a>
+<a href="https://www.netacad.com/courses/packet-tracer" title="Cisco Packet Tracer"><img align="center" src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" height="40" width="40" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img align="center" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="40" width="40" /></a>
+<a href="https://www.python.org/" title="Python"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="Python" height="40" width="40" /></a>
+<a href="https://grafana.com/" title="Grafana"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" alt="Grafana" height="40" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reksaardhana&show_icons=true&locale=en&layout=compact" alt="reksaardhana" /></p>
