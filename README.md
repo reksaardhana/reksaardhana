@@ -48,10 +48,10 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 <a href="https://www.redhat.com/en" title="Red Hat"><img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236967/redhat-icon-md.png" height="40" width="40" /></a>
 <a href="https://www.debian.org/" title="Debian"><img align="center" src="https://static-00.iconduck.com/assets.00/debian-logo-icon-1024x1014-7xt5ht8u.png" alt="Debian" height="40" width="40" /></a>
 <a href="https://www.microsoft.com/en-us/windows" title="Windows"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/12/windows-logo.png" alt="Windows" height="40" width="40" /></a>
-<a href="https://www.docker.com/" title="Docker"><img align="center" src="https://logo-marque.com/wp-content/uploads/2021/03/Docker-Logo-2017-present.jpg" alt="Docker" height="40" width="40" /></a>
+<a href="https://www.docker.com/" title="Docker"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" height="40" width="40" /></a>
 <a href="https://nmap.org/" title="Nmap"><img align="center" src="https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2020/04/nmap-logo-256x256-1.png" alt="Nmap" height="40" width="40" /></a>
 <a href="https://www.wireshark.org/" title="Wireshark"><img align="center" src="https://img.icons8.com/?size=64&id=rOHcpTUtCTjr&format=png" alt="Wireshark" height="40" width="40" /></a>
-<a href="https://www.metasploit.com/" title="Metasploit"><img align="center" src="https://www.datocms-assets.com/104397/1710826273-metasploit-framework-the-ultimate-guide-for-2024.png?auto=format" alt="Metasploit" height="40" width="40" /></a>
+<a href="https://www.metasploit.com/" title="Metasploit"><img align="center" src="https://www.nicepng.com/png/detail/24-249625_metasploit-logo.png" alt="Metasploit" height="40" width="40" /></a>
 <a href="https://www.openssl.org/" title="OpenSSL"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/openssl_logo_icon_170881.png" alt="OpenSSL" height="40" width="40" /></a>
 <a href="https://www.nginx.com/" title="Nginx"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Logo.png" alt="Nginx" height="30" width="40" /></a>
 <a href="https://httpd.apache.org/" title="Apache"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_logo_icon_168630.png" alt="Apache" height="30" width="40" /></a>
