@@ -43,100 +43,95 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reksaardhana&" alt="reksaardhana" /></p>
 
 <p align="left">
-    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://alightmotion.com/" target="_blank" rel="noreferrer">
-        <img src="https://alightmotion.com/images/logo.svg" alt="Alight Motion" width="40" height="40"/>
-    </a>
-    <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
-        <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Microsoft_PowerPoint_Logo.svg/1200px-Microsoft_PowerPoint_Logo.svg.png" alt="PowerPoint" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Microsoft_Office_Word_logo.svg/2048px-Microsoft_Office_Word_logo.svg.png" alt="Word" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Microsoft_Excel_logo.svg/2048px-Microsoft_Excel_logo.svg.png" alt="Excel" width="40" height="40"/>
-    </a>
-    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-        <img src="https://static.canva.com/static/images/canva-logo.svg" alt="Canva" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.kali.org/images/kali-linux-logo.svg" alt="Kali Linux" width="40" height="40"/>
-    </a>
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://assets.ubuntu.com/v1/2f765d6e-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/>
-    </a>
-    <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="Red Hat" width="40" height="40"/>
-    </a>
-    <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.debian.org/logos/Debian-Logo.svg" alt="Debian" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" alt="Windows" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-    </a>
-    <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-        <img src="https://nmap.org/images/nmap-logo.png" alt="Nmap" width="40" height="40"/>
-    </a>
-    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.wireshark.org/assets/images/wireshark-logo.png" alt="Wireshark" width="40" height="40"/>
-    </a>
-    <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.metasploit.com/images/metasploit_logo.png" alt="Metasploit" width="40" height="40"/>
-    </a>
-    <a href="https://www.openssl.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.openssl.org/images/openssl-logo.png" alt="OpenSSL" width="40" height="40"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-    </a>
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40"/>
-    </a>
-    <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.virtualbox.org/graphics/vbox_logo.png" alt="VirtualBox" width="40" height="40"/>
-    </a>
-    <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/logo-vmware.svg" alt="VMware" width="40" height="40"/>
-    </a>
-    <a href="https://www.cisco.com/c/en/us/products/switches/packet-tracer/index.html" target="_blank" rel="noreferrer">
-        <img src="https://www.cisco.com/c/dam/en_us/solutions/collateral/enterprise-networks/packet-tracer/packet-tracer.png" alt="Cisco Packet Tracer" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <a href="https://grafana.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-    </a>
+  <a href="https://twitter.com/ReksaArdhanaa" target="blank">
+    <img align="center" src="https://toppng.com/public/uploads/preview/twitter-x-new-logo-round-icon-png-11692480241tdbz6jparr.webp" alt="ReksaArdhanaa" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/reksaa" target="blank">
+    <img align="center" src="https://www.freeiconspng.com/uploads/facebook-logo-3.png" alt="reksaa" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/rrekzzz" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rekzzz" height="30" width="40" />
+  </a>
 </p>
-<style>
-    a {
-        text-decoration: none; /* Menghilangkan garis bawah pada tautan */
-    }
-</style>
 
 <p align="left">
-    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://alightmotion.com/" target="_blank" rel="noreferrer">
-        <img src="https://alightmotion.com/images/logo.svg" alt="Alight Motion" width="40" height="40"/>
-    </a>
-    <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
-        <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
-    </a>
-    <!-- Tambahkan tautan lainnya di sini -->
+  <a href="#" title="Adobe Photoshop">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" height="30" width="40" />
+  </a>
+  <a href="#" title="Alight Motion">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Alight_Motion_Logo.svg/1200px-Alight_Motion_Logo.svg.png" alt="Alight Motion" height="30" width="40" />
+  </a>
+  <a href="#" title="CapCut">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CapCut_logo.png/1200px-CapCut_logo.png" alt="CapCut" height="30" width="40" />
+  </a>
+  <a href="#" title="PowerPoint">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Microsoft_Office_PowerPoint_%282019-2021%29.svg/1024px-Microsoft_Office_PowerPoint_%282019-2021%29.svg.png" alt="PowerPoint" height="30" width="40" />
+  </a>
+  <a href="#" title="Word">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Microsoft_Office_Word_%282019-2021%29.svg/1024px-Microsoft_Office_Word_%282019-2021%29.svg.png" alt="Word" height="30" width="40" />
+  </a>
+  <a href="#" title="Excel">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Microsoft_Office_Excel_%282019-2021%29.svg/1024px-Microsoft_Office_Excel_%282019-2021%29.svg.png" alt="Excel" height="30" width="40" />
+  </a>
+  <a href="#" title="Canva">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canva_logo.png/1024px-Canva_logo.png" alt="Canva" height="30" width="40" />
+  </a>
+  <a href="#" title="Linux">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Linux_logo.png/1024px-Linux_logo.png" alt="Linux" height="30" width="40" />
+  </a>
+  <a href="#" title="Kali Linux">
+    <img align="center" src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" height="30" width="40" />
+  </a>
+  <a href="#" title="Ubuntu">
+    <img align="center" src="https://assets.ubuntu.com/v1/3de05e26-ubuntu-logo32.png" alt="Ubuntu" height="30" width="40" />
+  </a>
+  <a href="#" title="Red Hat">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Red_Hat_logo.svg/1024px-Red_Hat_logo.svg.png" alt="Red Hat" height="30" width="40" />
+  </a>
+  <a href="#" title="Debian">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Debian_logo.svg/1024px-Debian_logo.svg.png" alt="Debian" height="30" width="40" />
+  </a>
+  <a href="#" title="Windows">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" alt="Windows" height="30" width="40" />
+  </a>
+  <a href="#" title="Docker">
+    <img align="center" src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo.png" alt="Docker" height="30" width="40" />
+  </a>
+  <a href="#" title="Nmap">
+    <img align="center" src="https://nmap.org/images/nmap-logo.png" alt="Nmap" height="30" width="40" />
+  </a>
+  <a href="#" title="Wireshark">
+    <img align="center" src="https://www.wireshark.org/assets/logo/wire-logo.svg" alt="Wireshark" height="30" width="40" />
+  </a>
+  <a href="#" title="Metasploit">
+    <img align="center" src="https://www.metasploit.com/img/logos/metasploit.png" alt="Metasploit" height="30" width="40" />
+  </a>
+  <a href="#" title="OpenSSL">
+    <img align="center" src="https://www.openssl.org/images/openssl-logo.png" alt="OpenSSL" height="30" width="40" />
+  </a>
+  <a href="#" title="Nginx">
+    <img align="center" src="https://www.nginx.com/wp-content/uploads/2018/08/nginx_logo.png" alt="Nginx" height="30" width="40" />
+  </a>
+  <a href="#" title="Apache">
+    <img align="center" src="https://apache.org/images/asf_logo.png" alt="Apache" height="30" width="40" />
+  </a>
+  <a href="#" title="VirtualBox">
+    <img align="center" src="https://www.virtualbox.org/images/vbox_logo.png" alt="VirtualBox" height="30" width="40" />
+  </a>
+  <a href="#" title="VMware">
+    <img align="center" src="https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/logo/VMW_LOGO_RGB_POS.png" alt="VMware" height="30" width="40" />
+  </a>
+  <a href="#" title="Cisco Packet Tracer">
+    <img align="center" src="https://www.netacad.com/sites/default/files/styles/128x128/public/2021-01/cisco-packet-tracer.png" alt="Cisco Packet Tracer" height="30" width="40" />
+  </a>
+  <a href="#" title="MySQL">
+    <img align="center" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="30" width="40" />
+  </a>
+  <a href="#" title="Python">
+    <img align="center" src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" height="30" width="40" />
+  </a>
+  <a href="#" title="Grafana">
+    <img align="center" src="https://grafana.com/static/assets/img/grafana_logo.svg" alt="Grafana" height="30" width="40" />
+  </a>
 </p>
+
