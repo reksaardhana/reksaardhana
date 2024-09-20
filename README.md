@@ -36,8 +36,8 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img align="center" src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" alt="Adobe Photoshop" height="40" width="40" /></a>
-<a href="https://alightmotion.com/" title="Alight Motion"><img align="center" src="https://logos-world.net/wp-content/uploads/2024/01/Alight-Motion-Logo.png" alt="Alight Motion" height="40" width="40" /></a>
-<a href="https://www.capcut.com/" title="CapCut"><img align="center" src="https://www.pngall.com/wp-content/uploads/13/Alight-Motion-Logo.png" alt="CapCut" height="40" width="40" /></a>
+<a href="https://alightmotion.com/" title="Alight Motion"><img align="center" src="https://www.pngall.com/wp-content/uploads/13/Alight-Motion-Logo.png" alt="Alight Motion" height="40" width="40" /></a>
+<a href="https://www.capcut.com/" title="CapCut"><img align="center" src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" height="40" width="40" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" title="PowerPoint"><img align="center" src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png" height="40" width="40" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/word" title="Word"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-8.png" alt="Word" height="40" width="40" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel"><img align="center" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-1.png" alt="Excel" height="40" width="40" /></a>
