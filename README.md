@@ -34,104 +34,38 @@ Saya membuat aplikasi berbasis cloud yang membantu teman-teman saya berkolaboras
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="capcut" width="40" height="40"/> </a> <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-linux-logo.svg" alt="kali-linux" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="#" title="Adobe Photoshop"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" height="30" width="40" /></a>
+<a href="#" title="Alight Motion"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Alight_Motion_Logo.svg/1200px-Alight_Motion_Logo.svg.png" alt="Alight Motion" height="30" width="40" /></a>
+<a href="#" title="CapCut"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CapCut_logo.png/1200px-CapCut_logo.png" alt="CapCut" height="30" width="40" /></a>
+<a href="#" title="PowerPoint"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Microsoft_Office_PowerPoint_%282019-2021%29.svg/1024px Microsoft_Office_PowerPoint_%282019-2021%29.svg.png" alt="PowerPoint" height="30" width="40" /></a>
+<a href="#" title="Word"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Microsoft_Office_Word_%282019-2021%29.svg/1024px-Microsoft_Office_Word_%282019-2021%29.svg.png" alt="Word" height="30" width="40" /></a>
+<a href="#" title="Excel"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Microsoft_Office_Excel_%282019-2021%29.svg/1024px-Microsoft_Office_Excel_%282019-2021%29.svg.png" alt="Excel" height="30" width="40" /></a>
+<a href="#" title="Canva"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canva_logo.png/1024px-Canva_logo.png" alt="Canva" height="30" width="40" /></a>
+<a href="#" title="Linux"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Linux_logo.png/1024px-Linux_logo.png" alt="Linux" height="30" width="40" /></a>
+<a href="#" title="Kali Linux"><img align="center" src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" height="30" width="40" /></a>
+<a href="#" title="Ubuntu"><img align="center" src="https://assets.ubuntu.com/v1/3de05e26-ubuntu-logo32.png" alt="Ubuntu" height="30" width="40" /></a>
+<a href="#" title="Red Hat"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Red_Hat_logo.svg/1024px-Red_Hat_logo.svg.png" alt="Red Hat" height="30" width="40" /></a>
+<a href="#" title="Debian"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Debian_logo.svg/1024px-Debian_logo.svg.png" alt="Debian" height="30" width="40" /></a>
+<a href="#" title="Windows"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" alt="Windows" height="30" width="40" /></a>
+<a href="#" title="Docker"><img align="center" src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo.png" alt="Docker" height="30" width="40" /></a>
+<a href="#" title="Nmap"><img align="center" src="https://nmap.org/images/nmap-logo.png" alt="Nmap" height="30" width="40" /></a>
+<a href="#" title="Wireshark"><img align="center" src="https://www.wireshark.org/assets/logo/wire-logo.svg" alt="Wireshark" height="30" width="40" /></a>
+<a href="#" title="Metasploit"><img align="center" src="https://www.metasploit.com/img/logos/metasploit.png" alt="Metasploit" height="30" width="40" /></a>
+<a href="#" title="OpenSSL"><img align="center" src="https://www.openssl.org/images/openssl-logo.png" alt="OpenSSL" height="30" width="40" /></a>
+<a href="#" title="Nginx"><img align="center" src="https://www.nginx.com/wp-content/uploads/2018/08/nginx_logo.png" alt="Nginx" height="30" width="40" /></a>
+<a href="#" title="Apache"><img align="center" src="https://apache.org/images/asf_logo.png" alt="Apache" height="30" width="40" /></a>
+<a href="#" title="VirtualBox"><img align="center" src="https://www.virtualbox.org/images/vbox_logo.png" alt="VirtualBox" height="30" width="40" /></a>
+<a href="#" title="VMware"><img align="center" src="https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/logo/VMW_LOGO_RGB_POS.png" alt="VMware" height="30" width="40" /></a>
+<a href="#" title="Cisco Packet Tracer"><img align="center" src="https://www.netacad.com/sites/default/files/styles/128x128/public/2021-01/cisco-packet-tracer.png" alt="Cisco Packet Tracer" height="30" width="40" /></a>
+<a href="#" title="MySQL"><img align="center" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="30" width="40" /></a>
+<a href="#" title="Python"><img align="center" src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" height="30" width="40" /></a>
+<a href="#" title="Grafana"><img align="center" src="https://grafana.com/static/assets/img/grafana_logo.svg" alt="Grafana" height="30" width="40" /></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reksaardhana&show_icons=true&locale=en&layout=compact" alt="reksaardhana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reksaardhana&show_icons=true&locale=en" alt="reksaardhana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reksaardhana&" alt="reksaardhana" /></p>
-
-<p align="left">
-  <a href="https://twitter.com/ReksaArdhanaa" target="blank">
-    <img align="center" src="https://toppng.com/public/uploads/preview/twitter-x-new-logo-round-icon-png-11692480241tdbz6jparr.webp" alt="ReksaArdhanaa" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/reksaa" target="blank">
-    <img align="center" src="https://www.freeiconspng.com/uploads/facebook-logo-3.png" alt="reksaa" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rrekzzz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rekzzz" height="30" width="40" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="#" title="Adobe Photoshop">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" height="30" width="40" />
-  </a>
-  <a href="#" title="Alight Motion">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Alight_Motion_Logo.svg/1200px-Alight_Motion_Logo.svg.png" alt="Alight Motion" height="30" width="40" />
-  </a>
-  <a href="#" title="CapCut">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CapCut_logo.png/1200px-CapCut_logo.png" alt="CapCut" height="30" width="40" />
-  </a>
-  <a href="#" title="PowerPoint">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Microsoft_Office_PowerPoint_%282019-2021%29.svg/1024px-Microsoft_Office_PowerPoint_%282019-2021%29.svg.png" alt="PowerPoint" height="30" width="40" />
-  </a>
-  <a href="#" title="Word">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Microsoft_Office_Word_%282019-2021%29.svg/1024px-Microsoft_Office_Word_%282019-2021%29.svg.png" alt="Word" height="30" width="40" />
-  </a>
-  <a href="#" title="Excel">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Microsoft_Office_Excel_%282019-2021%29.svg/1024px-Microsoft_Office_Excel_%282019-2021%29.svg.png" alt="Excel" height="30" width="40" />
-  </a>
-  <a href="#" title="Canva">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canva_logo.png/1024px-Canva_logo.png" alt="Canva" height="30" width="40" />
-  </a>
-  <a href="#" title="Linux">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Linux_logo.png/1024px-Linux_logo.png" alt="Linux" height="30" width="40" />
-  </a>
-  <a href="#" title="Kali Linux">
-    <img align="center" src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" height="30" width="40" />
-  </a>
-  <a href="#" title="Ubuntu">
-    <img align="center" src="https://assets.ubuntu.com/v1/3de05e26-ubuntu-logo32.png" alt="Ubuntu" height="30" width="40" />
-  </a>
-  <a href="#" title="Red Hat">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Red_Hat_logo.svg/1024px-Red_Hat_logo.svg.png" alt="Red Hat" height="30" width="40" />
-  </a>
-  <a href="#" title="Debian">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Debian_logo.svg/1024px-Debian_logo.svg.png" alt="Debian" height="30" width="40" />
-  </a>
-  <a href="#" title="Windows">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" alt="Windows" height="30" width="40" />
-  </a>
-  <a href="#" title="Docker">
-    <img align="center" src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo.png" alt="Docker" height="30" width="40" />
-  </a>
-  <a href="#" title="Nmap">
-    <img align="center" src="https://nmap.org/images/nmap-logo.png" alt="Nmap" height="30" width="40" />
-  </a>
-  <a href="#" title="Wireshark">
-    <img align="center" src="https://www.wireshark.org/assets/logo/wire-logo.svg" alt="Wireshark" height="30" width="40" />
-  </a>
-  <a href="#" title="Metasploit">
-    <img align="center" src="https://www.metasploit.com/img/logos/metasploit.png" alt="Metasploit" height="30" width="40" />
-  </a>
-  <a href="#" title="OpenSSL">
-    <img align="center" src="https://www.openssl.org/images/openssl-logo.png" alt="OpenSSL" height="30" width="40" />
-  </a>
-  <a href="#" title="Nginx">
-    <img align="center" src="https://www.nginx.com/wp-content/uploads/2018/08/nginx_logo.png" alt="Nginx" height="30" width="40" />
-  </a>
-  <a href="#" title="Apache">
-    <img align="center" src="https://apache.org/images/asf_logo.png" alt="Apache" height="30" width="40" />
-  </a>
-  <a href="#" title="VirtualBox">
-    <img align="center" src="https://www.virtualbox.org/images/vbox_logo.png" alt="VirtualBox" height="30" width="40" />
-  </a>
-  <a href="#" title="VMware">
-    <img align="center" src="https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/logo/VMW_LOGO_RGB_POS.png" alt="VMware" height="30" width="40" />
-  </a>
-  <a href="#" title="Cisco Packet Tracer">
-    <img align="center" src="https://www.netacad.com/sites/default/files/styles/128x128/public/2021-01/cisco-packet-tracer.png" alt="Cisco Packet Tracer" height="30" width="40" />
-  </a>
-  <a href="#" title="MySQL">
-    <img align="center" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="30" width="40" />
-  </a>
-  <a href="#" title="Python">
-    <img align="center" src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" height="30" width="40" />
-  </a>
-  <a href="#" title="Grafana">
-    <img align="center" src="https://grafana.com/static/assets/img/grafana_logo.svg" alt="Grafana" height="30" width="40" />
-  </a>
-</p>
 
