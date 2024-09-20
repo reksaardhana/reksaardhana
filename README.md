@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reksaardhana" alt="reksaardhana" /></a> </p>
 
 
-- 🔭 Saya sedang mengerjakan [Proyek Pengaturan Jaringan untuk Startup](https://github.com/reksaardhana/open-source-jaringan.git)
+- 🔭 Saya sedang mengerjakan [Proyek Pengaturan Jaringan untuk Startup](https://github.com/reksaardhana/config-router-switch.git)
 
 - 🌱 Saya saat ini sedang belajar **Jaringan Cisco, Jaringan Cloud, dan Keamanan Jaringan**
 
