@@ -10,7 +10,7 @@
 
 - 👯 Saya ingin berkolaborasi dalam   [Proyek Jaringan dan Infrastruktur TI untuk perusahaan baru](https://github.com/reksaardhana/open-source-jaringan.git)
 
-- 📝 I regularly write articles on [blok link](blok link)
+- 📝 Saya secara teratur menulis artikel tentang [Cek Disini](https://x.com/ReksaArdhanaa)
 
 - 💬 Tanyakan kepada saya tentang **Jaringan Komputer, TCP/IP, dan Manajemen Jaringan**
 
